@@ -1,12 +1,12 @@
-\# 📚 Atividades Práticas – Escola da Nuvem
+\# 📚 Atividades Práticas Escola da Nuvem
 
 
 
 \## Turma
 
-\- C8 AGO – BRSAO 203
+\- C8 AGO  BRSAO 203
 
-\- Turno: Noite – R2
+\- Turno: Noite  R2
 
 
 
