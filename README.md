@@ -12,7 +12,7 @@
 
 \## Aluno
 
-\- Nome: Isaias
+\- Nome: Isaias Elias da Silva
 
 \- E-mail: isaias70elias@gmail.com
 \- E-mail: isaias70br@yahoo.com.br
