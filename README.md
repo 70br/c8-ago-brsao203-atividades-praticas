@@ -15,6 +15,7 @@
 \- Nome: Isaias
 
 \- E-mail: isaias70elias@gmail.com
+\- E-mail: isaias70br@yahoo.com.br
 
 
 
@@ -26,7 +27,8 @@
 
 |---------|----------------|--------|
 
-| Atividade Prática 01 | 15/12 | 🟨 Em andamento |
+| Atividade Prática 01 | 15/12 | ✅ Concluída |
+
 
 | Atividade Prática 02 | 17/12 | ⬜ Não iniciada |
 
