@@ -12,7 +12,7 @@
 
 \## Aluno
 
-\- Nome: Isaias
+\- Nome: Isaias Elias da Silva
 
 \- E-mail: isaias70elias@gmail.com
 \- E-mail: isaias70br@yahoo.com.br
@@ -30,9 +30,10 @@
 | Atividade Prática 01 | 15/12 | ✅ Concluída |
 
 
-| Atividade Prática 02 | 17/12 | ⬜ Não iniciada |
+| Atividade Prática 02 | 17/12 | ✅ Concluída |
 
-| Atividade Prática 03 | 17/12 | ⬜ Não iniciada |
+
+| Atividade Prática 03 | 17/12 | ✅ Concluída |
 
 | Atividade Prática 04 | 19/12 | ⬜ Não iniciada |
 
